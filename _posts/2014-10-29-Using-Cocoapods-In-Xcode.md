@@ -9,12 +9,12 @@ author: girishvr
 
 
 
-###[CocoaPods](http://cocoapods.org/)
+##[CocoaPods](http://cocoapods.org/)
 
-#### Introduction
+### Introduction
 CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help us scale our projects elegantly.
 
-#### Prerequisites
+### Prerequisites
 CocoaPods is built with **Ruby** and is installable with the default Ruby available on OS X. 
 
 *Please Install Ruby in your system if you do not have it.*
@@ -28,7 +28,7 @@ Fortunately, all recent versions of Mac OS X (since OS X 10.7 Lion) ship with Ru
 *Enter your password when requested.*
 
 -----
-#### Installation
+### Installation
 
 1. Using the default Ruby install will require you to use sudo when installing **gems**. 
 
@@ -42,7 +42,7 @@ Fortunately, all recent versions of Mac OS X (since OS X 10.7 Lion) ship with Ru
 
 
 
-#### Initializing Pod into the App
+### Initializing Pod into the App
 
 - Navigate to the directory containing your app project by using the cd command:
 
@@ -58,7 +58,7 @@ To do so, enter this command:
 
 
 
-#### Installing Your Dependency
+### Installing Your Dependency
 
 * Type this command to open **Podfile** using Xcode for editing:
 
@@ -88,7 +88,7 @@ Also, you want to include AFNetworking version 2.4.1 (the latest as of the writi
 
 
 
-#### Finishing
+### Finishing
 
    You now need to tell CocoaPods to “install” the dependencies for your project. 
 
@@ -115,7 +115,7 @@ Also, you want to include AFNetworking version 2.4.1 (the latest as of the writi
 ----
 
 
-#### Search for pods
+### Search for pods
 You can search for all the available pod files also.
 
 - To search for pods by name:
