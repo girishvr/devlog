@@ -54,7 +54,7 @@ To do so, enter this command:
 
     `$ pod init`
 
-     *This will create a default Podfile for your project. The Podfile is where you define the dependencies your project relies on.*
+   *This will create a default Podfile for your project. The Podfile is where you define the dependencies your project relies on.*
 
 
 
@@ -64,7 +64,7 @@ To do so, enter this command:
 
     `$ open -a Xcode Podfile`
 
-    **Warning:** *You shouldn’t use TextEdit to edit the pod file because TextEdit likes to replace standard quotes with more graphically appealing quotes. This can cause CocoaPods to get confused and display errors, so it’s best to just use Xcode or another programming text editor.*
+   **Warning:** *You shouldn’t use TextEdit to edit the pod file because TextEdit likes to replace standard quotes with more graphically appealing quotes. This can cause CocoaPods to get confused and display errors, so it’s best to just use Xcode or another programming text editor.*
 
 
 
@@ -82,9 +82,9 @@ To do so, enter this command:
   This tells CocoaPods that your project is targeting iOS 8.
 Also, you want to include AFNetworking version 2.4.1 (the latest as of the writing of this tutorial) and ARAnalytics version 2.7 as a dependency for your project
 
-    ***Save and close the Podfile.***
+   ***Save and close the Podfile.***
 
-    **NOTE:** You can [search for pods](#search-for-pods) also if you wish.
+   **NOTE:** You can [search for pods](#search-for-pods) also if you wish.
 
 
 
@@ -112,7 +112,7 @@ Also, you want to include AFNetworking version 2.4.1 (the latest as of the writi
     
 **Thats all!**
 
-====
+----
 
 
 #### Search for pods
