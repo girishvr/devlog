@@ -133,4 +133,20 @@ You can search for all the available pod files also.
 
 ------
 
+### What next?
+##### Create a Pod
 
+ Sometimes CocoaPods doesn’t yet have a pod for one of your dependencies. Fortunately, creating a pod is pretty easy:
+
+`$ pod spec create Peanut`
+
+`$ edit Peanut.podspec`
+
+`$ pod spec lint Peanut.podspec`
+
+
+*You can find a lot of information on the [process in the guides](http://guides.cocoapods.org/).*
+ 
+*When you're done you can get an account and push your [pod to the CocoaPods Trunk](http://guides.cocoapods.org/making/getting-setup-with-trunk.html).*
+
+---
